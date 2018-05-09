@@ -6,6 +6,6 @@ var question = require('./talk/question');
 var ans = question.ask("what is the meaning of Life?");
 console.log(ans);
 
-talk.hello('Verma');
+talk.hello('Hi');
 talk.intro();
 goodbye();
